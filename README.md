@@ -30,12 +30,7 @@
 
 ## 📊 Stats
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=qbeAccountPro&show_icons=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&rank_icon=github" />
+  
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=qbeAccountPro&show_icons=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&rank_icon=github" /> <br><br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbeAccountPro&layout=compact&show_icons=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" />
-
-
-
-
 ![](image-readme/Bottom_down.svg)
-
-
