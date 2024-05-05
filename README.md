@@ -1,6 +1,15 @@
+<div style="background-color:rgb(20, 40, 40);">
+
+
 ![](image-readme/Bottom_up.svg)
 
-# 🙋 Quentin Beraud
+<div align="center">
+
+#  Hi, I'm Quentin  🙋
+
+
+</div>
+
 
 ## 🌱 About me 
 
@@ -13,6 +22,9 @@
 <img height=18 src="image-readme/bolt.png"> Studied  Mechanical Engineering and Production Technology at the University of Lyon 1, France 
 
 ## 🧰 Tech Stack
+<div align="center" >
+
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)<br>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -27,10 +39,18 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+</div>
+
 
 ## 📊 Stats
 
+  <div align="center">
   
-  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=qbeAccountPro&show_icons=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&rank_icon=github" /> <br><br>
+  <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=qbeAccountPro&show_icons=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&rank_icon=github" /> 
+  <br>
+  <br>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbeAccountPro&layout=compact&show_icons=true&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff" />
+  </div>
+
 ![](image-readme/Bottom_down.svg)
+</div>
